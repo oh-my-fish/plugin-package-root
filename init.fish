@@ -1,0 +1,1 @@
+autoload {$OMF_CONFIG,$OMF_PATH}/pkg/*
